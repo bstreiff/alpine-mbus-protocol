@@ -1,3 +1,9 @@
+_**NOTE FROM 2023:** This was a project from 2009. I do not expect to get
+back to it-- I've not had the vehicle I intended it for in nearly a decade.
+My guess is that there aren't many other people out there looking for
+protocol documentation for the sixth-gen Civic headunits, but I'm throwing
+this up just in case it might be your lucky day._
+
 # Alpine M-Bus Protocol
 
 ## Overview
